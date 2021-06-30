@@ -1,3 +1,0 @@
-B:/Coding Languages/C++/Standard C++/Design Patterns C++/DP Code/Section 5 ProtoType/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-B:/Coding Languages/C++/Standard C++/Design Patterns C++/DP Code/Section 5 ProtoType/cmake-build-debug/CMakeFiles/Section_5_ProtoType.dir
-B:/Coding Languages/C++/Standard C++/Design Patterns C++/DP Code/Section 5 ProtoType/cmake-build-debug/CMakeFiles/edit_cache.dir
